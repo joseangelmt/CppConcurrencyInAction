@@ -144,6 +144,7 @@
   <ItemGroup>
     <ClInclude Include="joining_thread.h" />
     <ClInclude Include="scoped_thread.h" />
+    <ClInclude Include="threadsafe_stack.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
