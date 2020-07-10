@@ -32,5 +32,8 @@
     <ClInclude Include="hierarchical_mutex.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="threadsafe_queue.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
