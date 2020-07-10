@@ -29,5 +29,8 @@
     <ClInclude Include="threadsafe_stack.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="hierarchical_mutex.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
